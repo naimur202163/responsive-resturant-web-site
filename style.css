@@ -221,5 +221,41 @@ ul {
   font-weight: bold;
 }
 
+.btn-shodow {
+  box-shadow: var(--box-shadow);
+}
+
+.btn-primary:hover {
+  background: var(--bg-gradient-indigo);
+}
+
+.bg-cover {
+  background: var(--bg-coverF);
+  object-fit: fill;
+}
+.d-inline {
+  display: inline-block;
+}
+
+.d-block {
+  display: block;
+}
+
+.gird {
+  display: grid;
+}
+
+.cols-1 {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.w-50 {
+  width: 50%;
+}
+
 /* 27min */
 /* ------------- Global Classes----------------- */ ;
