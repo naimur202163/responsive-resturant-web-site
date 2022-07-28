@@ -1,0 +1,17 @@
+/* Variables */
+
+:root {
+  /* text-colors */
+  --text-gray: #808291;
+  --text-white: #fff;
+  --text-light: #f6f6f6;
+  --text-dark: #1a3260;
+  --text-dark2: #1a3760d4;
+  --text-red: #ff4d6d;
+  --text-shadow: 0px 0px 50px 0px rgb(000/10%);
+  -bg-blue: rgb(249, 243, 255);
+  --bg-red: rgb(254, 247, 252);
+  --bg-yellow: rgb(255, 255, 246);
+  --bg-purple: rgb(246, 255, 255);
+}
+/* variables */
